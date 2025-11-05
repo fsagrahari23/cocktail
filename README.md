@@ -1,3 +1,3 @@
 # Cocktail
 
-cocktail with gsap an scrolltrigger
+cocktail with gsap an 
